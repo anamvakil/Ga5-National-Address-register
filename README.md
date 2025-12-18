@@ -31,12 +31,14 @@ The project emphasizes transforming raw address-related data into a structured, 
 
 ## Repository Structure
 
-
-
-
-
-
-
+```
+ga5-national-address-register/
+├── erd/
+│   └── ga5_national_address_register_erd.mjs
+├── report/
+│   └── ga5_national_address_register_report.html
+└── README.md
+```
 
 
 ---
