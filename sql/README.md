@@ -5,12 +5,12 @@ The scripts implement a complete database pipeline, from **raw data staging** to
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 To design and implement a **relational database schema** that supports efficient storage, integrity, and querying of national address data using best practices in data engineering.
 
 ---
 
-## 📂 Script Overview & Execution Order
+##  Script Overview & Execution Order
 
 ###  `script1_sql`
 **Staging Table Creation**
